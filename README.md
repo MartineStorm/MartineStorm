@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me martine.stormen@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Global Engagement: "My commitment to discovering new cultures and markets through my travels to countries such as the USA, Monaco, Germany, and the Netherlands has given me a richer understanding of international dynamics."
+- ⚡ Fun fact: Global Engagement: My commitment to discovering new cultures and markets through my travels to countries such as the USA, Monaco, Germany, and the Netherlands has given me a richer understanding of international dynamics.
