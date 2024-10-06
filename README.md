@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MartineStorm
 - 👀 I’m interested in SQL and enjoy Web-development.
-- 🌱 I’m currently learning HTML, CSS, JavaScript, Python and SQL
+- 🌱 I’m currently learning HTML, CSS, JavaScript, Typescript, Python and SQL
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 How to reach me martine.stormen@gmail.com
 - 😄 Pronouns: She/her
